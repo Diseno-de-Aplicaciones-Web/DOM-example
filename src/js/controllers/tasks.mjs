@@ -40,7 +40,6 @@ export function updateTasksHTML (CSSselector, tasksArray) {
     } else {
         listHTMLElement.innerText = "Add your first task..."
     }
-
 }
 
 export function taskAddButtonClickHandler (event) {
